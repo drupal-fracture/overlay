@@ -23,7 +23,7 @@ html.overlay-open body {
 
 .overlay-modal-background {
   /* Using a transparent png renders faster than using opacity */
-  background: transparent url(images/background.png) repeat;
+  background: transparent url(../images/background.png) repeat;
 }
 
 .overlay-element {

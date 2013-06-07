@@ -63,7 +63,7 @@
 }
 #overlay-close,
 #overlay-close:hover {
-  background: #ffffff url(images/close.png) no-repeat;
+  background: #ffffff url(../images/close.png) no-repeat;
   border-radius: 0 12px 12px 0; /* LTR */
   display: block;
   height: 26px;
